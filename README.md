@@ -254,8 +254,8 @@ our model is now created
 
 # Actual Average temperature Predicted Average Temperature
 
-# 1 16 17
+# 16(actual) 17(predicted)
 
-# 2 31 31
+# 31(actual) 31(predicted)
 
 
